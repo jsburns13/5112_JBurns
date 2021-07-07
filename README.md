@@ -1,2 +1,2 @@
-# 5112_Week1
+# 5112_JBurns
 Repository for 5112 class assignments
